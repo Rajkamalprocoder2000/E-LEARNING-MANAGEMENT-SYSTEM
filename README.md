@@ -3,33 +3,51 @@ A Learning Management System (LMS) is a software platform used to plan, deliver,
 <img src="https://github.com/Rajkamalprocoder2000/E-GYAN-LEARNING-MANAGEMENT-SYSTEM/blob/28d898d65d3f2c6e99116227e48db44df60b2a64/Screenshot%20(54).png">
 
 <h2>Key features</h2>
-Course creation and management (modules, lessons, resources)<br>
-User management (students, instructors, admins)</br>
-Support for multimedia content (video, documents, slides)</br>
-Quizzes and assessments with scoring</br>
-Progress tracking and reporting</br>
-Discussion forums / messaging (optional)</br>
-Role-based access control and certificates</br>
+
+<ul>
+  <li>Course creation and management (modules, lessons, resources)</li><br>
+<li>User management (students, instructors, admins)</li></br>
+<li>Support for multimedia content (video, documents, slides)</li></br>
+  
+<li>Quizzes and assessments with scoring</li></br>
+<li>Progress tracking and reporting</li></br>
+<li>Discussion forums / messaging (optional)</li></br>
+<li>Role-based access control and certificates</li></br>
+
+
 <h2>Supported content</h2>
-Video (MP4, links)</br>
-Documents (PDF, DOCX)</br>
-Quizzes (multiple choice, short answer)</br>
-Assignments and uploaded files</br>
-Discussion threads</br>
+
+<ul>
+  <li>Video (MP4, links)</li>
+  <li>Documents (PDF, DOCX)</li>
+  <li>Quizzes (multiple choice, short answer)</li>
+  <li>Assignments and uploaded files</li>
+   <li>Discussion threads</li>
+ 
+</ul>
+
 <h2>Benefits</h2>
-Structured, measurable learning paths</br>
-Easy course delivery for online or hybrid learning</br>
-Centralized tracking of learner progress and performance</br>
-Scalable for small classes to large organizations</br>
-<h2>Getting started</h2>
+
+
+ <li>Structured, measurable learning paths</li>
+  <li>Easy course delivery for online or hybrid learning</li>
+  <li>Centralized tracking of learner progress and performance</li>
+  <li>Scalable for small classes to large organizations</li>
+
+
+</ul>
+
 
 <h2>Installation process step by step </h2>
-1. download this repository first then extract.</br>
-2.install wamp server or xamp server anyone .<br>
-3. download spring tool suit IED and installed it .</br>
-4. Open Sts then upload the extracted maven project file and Run (Warning : while run check the server port and username and password for connecting database). </br>
+<ul>
+<ol> download this repository first then extract.</ol>
+<ol>install wamp server or xamp server anyone .</ol>
+<ol> download spring tool suit IED and installed it .</ol>
+<ol> Open Sts then upload the extracted maven project file and Run (Warning : while run check the server port and username and password for connecting database). </ol>
+</ul>
 
 <h2>Usage</h2>
+
 Sign in as instructor/admin to create courses and upload materials</br>
 Enroll learners into courses</br>
 Learners access courses, complete lessons, take quizzes, and view progress</br>
