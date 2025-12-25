@@ -44,7 +44,8 @@ Admins can generate reports and manage users</br>
 <h2>Project structure (example)</h2>
 /backend — server-side code (API, authentication, database models)</br>
 /frontend — client-side application (HTML, SCSS, JS)</br>
-/docs — project documentation and diagrams</br>
+/docs — project documentatio![WhatsApp Image 2025-07-28 at 12 25 39 PM](https://github.com/user-attachments/assets/1b4a6495-351c-483d-9294-cd72c2268e0c)
+n and diagrams</br>
 /assets — images, icons, sample files</br>
 Adjust these paths to match the actual repository layout.
 
