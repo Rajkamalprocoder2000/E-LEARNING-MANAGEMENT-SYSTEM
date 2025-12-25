@@ -1,4 +1,4 @@
-<h1>E-GYAN — Learning Management System (LMS)</h1>
+<h1>E— Learning Management System (LMS)</h1>
 A Learning Management System (LMS) is a software platform used to plan, deliver, and track educational content and training programs. E-GYAN is an LMS designed to help organizations and educational institutions manage online courses, track learner progress, and provide assessments and certifications.
 <img src="https://github.com/Rajkamalprocoder2000/E-GYAN-LEARNING-MANAGEMENT-SYSTEM/blob/28d898d65d3f2c6e99116227e48db44df60b2a64/Screenshot%20(54).png">
 
