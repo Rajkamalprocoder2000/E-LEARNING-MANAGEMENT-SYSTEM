@@ -25,22 +25,18 @@ Scalable for small classes to large organizations</br>
 Java (if backend is Java) or Node.js (if backend is Node) — adjust depending on project stack</br>
 A database (MySQL, PostgreSQL, MongoDB) — replace with the database used by this repo
 Git</br>
-<h2>Install (example — replace with your actual steps)</h2>
-Clone the repository git clone https://github.com/Rajkamalprocoder2000/E-GYAN-LEARNING-MANAGEMENT-SYSTEM.git
-Change into the project directory cd E-GYAN-LEARNING-MANAGEMENT-SYSTEM
-Backend
-If Java (Maven/Gradle): mvn clean install && mvn spring-boot:run (or use Gradle equivalent)
-If Node.js: npm install && npm start
-Frontend
-If a separate frontend: cd frontend && npm install && npm run build && npm start
-Configure environment variables / database connection in .env or application properties
-(Replace the example commands above with the exact commands your project uses.)
+<h2>Installation process step by step </h2>
+1. download this repository first then extract.</br>
+2.install wamp server or xamp server anyone .
+3. download spring tool suit IED and installed it .
+4. Open Sts then upload the extracted maven project file and Run (Warning : while run check the server port and username and password for connecting database). 
 
 <h2>Usage</h2>
 Sign in as instructor/admin to create courses and upload materials</br>
 Enroll learners into courses</br>
 Learners access courses, complete lessons, take quizzes, and view progress</br>
 Admins can generate reports and manage users</br>
+
 <h2>Project structure (example)</h2>
 /backend — server-side code (API, authentication, database models)</br>
 /frontend — client-side application (HTML, SCSS, JS)</br>
@@ -49,10 +45,3 @@ n and diagrams</br>
 /assets — images, icons, sample files</br>
 Adjust these paths to match the actual repository layout.
 
-<h2>Contributing</h2>
-Fork the repo
-Create a feature branch: git checkout -b feature/your-feature
-Commit your changes: git commit -m "Add feature"
-Push to the branch: git push origin feature/your-feature
-Open a Pull Request
-Please include tests and update documentation for any new features.
