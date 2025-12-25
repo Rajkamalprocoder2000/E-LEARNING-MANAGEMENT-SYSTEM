@@ -27,9 +27,9 @@ A database (MySQL, PostgreSQL, MongoDB) — replace with the database used by th
 Git</br>
 <h2>Installation process step by step </h2>
 1. download this repository first then extract.</br>
-2.install wamp server or xamp server anyone .
-3. download spring tool suit IED and installed it .
-4. Open Sts then upload the extracted maven project file and Run (Warning : while run check the server port and username and password for connecting database). 
+2.install wamp server or xamp server anyone .<br>
+3. download spring tool suit IED and installed it .</br>
+4. Open Sts then upload the extracted maven project file and Run (Warning : while run check the server port and username and password for connecting database). </br>
 
 <h2>Usage</h2>
 Sign in as instructor/admin to create courses and upload materials</br>
