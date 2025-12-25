@@ -1,0 +1,2 @@
+POJO = Plain Old Java Object
+POJI = Plain Old Java Interface
