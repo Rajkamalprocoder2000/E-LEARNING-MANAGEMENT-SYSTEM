@@ -21,10 +21,7 @@ Easy course delivery for online or hybrid learning</br>
 Centralized tracking of learner progress and performance</br>
 Scalable for small classes to large organizations</br>
 <h2>Getting started</h2>
-<h2>Prerequisites</h4>
-Java (if backend is Java) or Node.js (if backend is Node) — adjust depending on project stack</br>
-A database (MySQL, PostgreSQL, MongoDB) — replace with the database used by this repo
-Git</br>
+
 <h2>Installation process step by step </h2>
 1. download this repository first then extract.</br>
 2.install wamp server or xamp server anyone .<br>
