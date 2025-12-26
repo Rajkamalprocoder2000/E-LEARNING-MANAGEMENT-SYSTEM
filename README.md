@@ -1,7 +1,9 @@
 <h1>E— Learning Management System (LMS)</h1>
 A Learning Management System (LMS) is a software platform used to plan, deliver, and track educational content and training programs. E-GYAN is an LMS designed to help organizations and educational institutions manage online courses, track learner progress, and provide assessments and certifications.
 <img src="https://github.com/Rajkamalprocoder2000/E-GYAN-LEARNING-MANAGEMENT-SYSTEM/blob/28d898d65d3f2c6e99116227e48db44df60b2a64/Screenshot%20(54).png">
-
+<img src="New folder/Screenshot (56).png">
+<img src="New folder/Screenshot (58).png">
+<img src="New folder/Screenshot (61).png">
 <h2>Key features</h2>
 
 <ul>
@@ -24,6 +26,15 @@ Forthedesignanddevelopmentofthesystem,severalsoftwareproductshavebeenaccommodate
   Thetechnology(JavawithSpringBootframework)hasenoughefficiencyforthedevelopmentofthe
 system.Thereforetheprojectistechnicallyfeasible.
 </ul>
+<img src="New folder/Screenshot (63).png">
+<img src="New folder/Screenshot (64.png">
+<img src="New folder/Screenshot (65).png">
+<img src="New folder/Screenshot (66.png">
+<img src="New folder/Screenshot (68).png">
+<img src="New folder/Screenshot (69).png">
+<img src="New folder/Screenshot (70).png">
+<img src="New folder/Screenshot (71).png">
+<img src="New folder/Screenshot (72).png">
 
 <h2>Supported content</h2>
 
@@ -50,11 +61,17 @@ system.Thereforetheprojectistechnicallyfeasible.
 
 <h2>Installation process step by step </h2>
 <ul>
-<ol> download this repository first then extract.</ol>
-<ol>install wamp server or xamp server anyone .</ol>
-<ol> download spring tool suit IED and installed it .</ol>
-<ol> Open Sts then upload the extracted maven project file and Run (Warning : while run check the server port and username and password for connecting database). </ol>
+<li> download this repository first then extract.</li>
+<li>install wamp server or xamp server anyone .</li>
+<li> download spring tool suit IED and installed it .</li>
+<li> Open Sts then upload the extracted maven project file and Run (Warning : while run check the server port and username and password for connecting database).
+<img src="New folder/Screenshot (48).png">
+  <img src="New folder/Screenshot (49).png">
+  <img src="New folder/Screenshot (50).png">
+</li>
+  <li>create database  in sql name "lmsdb"</li>
 </ul>
+
 
 <h2>Usage</h2>
 
