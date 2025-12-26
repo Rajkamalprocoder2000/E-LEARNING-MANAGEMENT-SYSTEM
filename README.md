@@ -3,6 +3,7 @@ A Learning Management System (LMS) is a software platform used to plan, deliver,
 <img src="https://github.com/Rajkamalprocoder2000/E-GYAN-LEARNING-MANAGEMENT-SYSTEM/blob/28d898d65d3f2c6e99116227e48db44df60b2a64/Screenshot%20(54).png">
 <img src="New folder/Screenshot (56).png">
 <img src="New folder/Screenshot (58).png">
+<img src="New folder/Screenshot (61).png">
 <h2>Key features</h2>
 
 <ul>
