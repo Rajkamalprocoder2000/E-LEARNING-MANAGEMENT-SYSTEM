@@ -61,15 +61,15 @@ system.Thereforetheprojectistechnicallyfeasible.
 
 <h2>Installation process step by step </h2>
 <ul>
-<ol> download this repository first then extract.</ol>
-<ol>install wamp server or xamp server anyone .</ol>
-<ol> download spring tool suit IED and installed it .</ol>
-<ol> Open Sts then upload the extracted maven project file and Run (Warning : while run check the server port and username and password for connecting database).
+<li> download this repository first then extract.</li>
+<li>install wamp server or xamp server anyone .</li>
+<li> download spring tool suit IED and installed it .</li>
+<li> Open Sts then upload the extracted maven project file and Run (Warning : while run check the server port and username and password for connecting database).
 <img src="New folder/Screenshot (48).png">
   <img src="New folder/Screenshot (49).png">
   <img src="New folder/Screenshot (50).png">
-</ol>
-  <ol>create database  in sql name "lmsdb"</ol>
+</li>
+  <li>create database  in sql name "lmsdb"</li>
 </ul>
 
 
