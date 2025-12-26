@@ -26,6 +26,15 @@ Forthedesignanddevelopmentofthesystem,severalsoftwareproductshavebeenaccommodate
   Thetechnology(JavawithSpringBootframework)hasenoughefficiencyforthedevelopmentofthe
 system.Thereforetheprojectistechnicallyfeasible.
 </ul>
+<img src="New folder/Screenshot (63).png">
+<img src="New folder/Screenshot (64.png">
+<img src="New folder/Screenshot (65).png">
+<img src="New folder/Screenshot (66.png">
+<img src="New folder/Screenshot (68).png">
+<img src="New folder/Screenshot (69).png">
+<img src="New folder/Screenshot (70).png">
+<img src="New folder/Screenshot (71).png">
+<img src="New folder/Screenshot (72).png">
 
 <h2>Supported content</h2>
 
