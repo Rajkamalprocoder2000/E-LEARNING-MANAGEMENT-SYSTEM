@@ -65,7 +65,9 @@ system.Thereforetheprojectistechnicallyfeasible.
 <ol>install wamp server or xamp server anyone .</ol>
 <ol> download spring tool suit IED and installed it .</ol>
 <ol> Open Sts then upload the extracted maven project file and Run (Warning : while run check the server port and username and password for connecting database). </ol>
+  <ol>create database  in sql name "lmsdb"</ol>
 </ul>
+
 
 <h2>Usage</h2>
 
