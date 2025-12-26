@@ -58,7 +58,8 @@ system.Thereforetheprojectistechnicallyfeasible.
 
 </ul>
 
-
+<h1>Contact me regrading installation process</h1>
+<h3>Email : Singhrajkamal90@gmail.com</h3>
 <h2>Installation process step by step </h2>
 <ul>
 <li> download this repository first then extract.</li>
@@ -69,7 +70,9 @@ system.Thereforetheprojectistechnicallyfeasible.
   <img src="New folder/Screenshot (49).png">
   <img src="New folder/Screenshot (50).png">
 </li>
-  <li>create database  in sql name "lmsdb"</li>
+  <li>create database  in sql name "lmsdb"
+    <img src="New folder/Screenshot (53).png">
+  </li>
 </ul>
 
 

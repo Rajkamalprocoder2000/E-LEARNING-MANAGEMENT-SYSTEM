@@ -1,0 +1,13 @@
+contact link-->
+# remove and write /contact
+change on both position index and contact html page
+
+only contact page contain-->
+nav bar,
+menu,
+marquee,
+footer.
+
+not contain--> about to footer.
+
+in between marquee and footer it contain contact data(page).

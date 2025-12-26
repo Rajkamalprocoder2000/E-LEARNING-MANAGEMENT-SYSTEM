@@ -1,0 +1,113 @@
+*
+{
+    margin:0px;
+    margin:0px;
+    
+}
+#outer
+{
+    background-color:#5c1110;
+    color:white;
+}
+.images
+{
+    height:550px;
+    width:100%;
+    border:1px solid ;
+    background-image: url(../images/img.jpg.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.notice
+{
+    height:80px;
+    width:100%;
+    border:1px solid #676462;
+    background-color: #676462;
+
+}
+.mrq
+{
+    height:60px;
+    width:350px;
+    border:1 px solid #5c1110;
+    color:white;
+    background-color:#5c1110;
+    text-align: center;
+    margin-top:10px;
+    float:left;
+    margin-left:15px;
+    
+}
+.mrq h6{
+    margin-top:8px;
+    line-height:0.8;
+    font-weight: bold;
+    
+}
+#navbar
+{
+    height:100px;
+    width:100%;
+    border:1px solid black;
+    background-color:rgba(0,0,0,.7);
+    padding:0;
+    margin:0%;
+    backdrop-filter: blur(5px);
+
+}
+#about
+{
+    margin-top:20px;
+    text-align: justify;
+    word-spacing: 10px;
+}
+#videoimg
+{
+    height:400px;
+    width:500px;
+    border:1px solid black;
+    margin-top:170px;
+    float:right;
+    background-image: url(../images/imgs.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.portal
+{
+    height:550px;
+    width:100%;
+    border:1px solid black;
+    margin-top:60px;
+    background-image: url(../images/imgs3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.card
+{
+	margin:auto;
+}
+.setup
+{
+	height:800px;
+	width:100%;
+	border:1px solid lightgray;
+	background-color:lightgray;
+	margin-top:60px;
+}
+#card
+{
+	height:600px;
+	width:100%;
+	border:1px solid black;
+	padding:0;
+	
+}
+.youtube
+{
+	height:600px;
+	width:100%;
+	border:1px solid black;
+}
