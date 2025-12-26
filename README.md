@@ -13,7 +13,17 @@ A Learning Management System (LMS) is a software platform used to plan, deliver,
 <li>Progress tracking and reporting</li></br>
 <li>Discussion forums / messaging (optional)</li></br>
 <li>Role-based access control and certificates</li></br>
+</ul>
 
+<h2>TechnicalFeasibility:</h2>
+Forthedesignanddevelopmentofthesystem,severalsoftwareproductshavebeenaccommodated.</br>
+<ul>
+  <li> Databasedesign–MySql</li>
+  <li>Interfacedesign–HTML,CSS,JavaScriptandBootstrap,Thymeleaf</li>
+<li> Coding–JavawithSpringBootframework</li>
+  Thetechnology(JavawithSpringBootframework)hasenoughefficiencyforthedevelopmentofthe
+system.Thereforetheprojectistechnicallyfeasible.
+</ul>
 
 <h2>Supported content</h2>
 
