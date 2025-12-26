@@ -69,7 +69,9 @@ system.Thereforetheprojectistechnicallyfeasible.
   <img src="New folder/Screenshot (49).png">
   <img src="New folder/Screenshot (50).png">
 </li>
-  <li>create database  in sql name "lmsdb"</li>
+  <li>create database  in sql name "lmsdb"
+    <img src="New folder/Screenshot (53).png">
+  </li>
 </ul>
 
 
